@@ -11,8 +11,8 @@ Aos 10 anos tive meu primeiro contato com HTML em um curso que fiz e foi ai que 
 
 <p>
 <a href="https://github.com/pcaffa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pcaffa&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pcaffa&theme=radical&layout=compact&exclude_lang=java+r%22" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pcaffa&show_icons=true&theme=radical" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pcaffa&theme=radical&layout=compact&exclude_lang=java+r%22" />
 </a>
 </p>
 
