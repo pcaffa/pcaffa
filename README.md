@@ -5,7 +5,7 @@ Aos 10 anos tive meu primeiro contato com HTML em um curso que fiz e foi ai que 
 
 - 🎓 Formada em Análise e Desenvolvimento de Sistemas. 
 - 💻 Ja trabalhei com HTML, CSS, JAVA e SQL. 
-- 🤩 Estou estudando JavaScript, HTML, CSS. 
+- 👩‍💻 Estou estudando JavaScript e C# .NET e aprimorando meus conhecimentos em HTML, CSS. 
 
 <p>&nbsp;&nbsp;</p>
 
