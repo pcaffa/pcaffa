@@ -3,9 +3,10 @@
 ## 👩‍💻 Sobre mim
 Aos 10 anos tive meu primeiro contato com HTML em um curso que fiz e foi ai que começou minha paixão pela área de TI.❤
 
-- 🎓 Formada em Análise e Desenvolvimento de Sistemas. 
-- 💻 Ja trabalhei com HTML, CSS, JAVA e SQL. 
-- 👩‍💻 Estou estudando JavaScript e C# .NET e aprimorando meus conhecimentos em HTML, CSS. 
+- 🎓 Graduada em Análise e Desenvolvimento de Sistemas.
+- 🎓 Pós Graduada em Arquitetura de Sistemas .NET com Azure.
+- 💻 Ja trabalhei com HTML, CSS, JAVA e SQL, Porém hoje trabalho com C#. 
+- 👩‍💻 Atualmente estou fazendo Pós FullStack (React, Nodejs, IA, DevOps) e C# .NET a parte, sempre buscando aprimorar meus conhecimentos. 
 
 <p>&nbsp;&nbsp;</p>
 
